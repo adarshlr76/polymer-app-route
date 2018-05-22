@@ -1,0 +1,6 @@
+{
+  "name": "samples",
+  "short_name": "samples",
+  "start_url": "/",
+  "display": "standalone"
+}
